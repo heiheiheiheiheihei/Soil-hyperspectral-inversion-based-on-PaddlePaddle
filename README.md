@@ -409,9 +409,6 @@ with fluid.scope_guard(inference_scope):#修改全局/默认作用域（scope）
 ## 关于作者
 
 > ## 马云飞  
-> 枣庄学院 地理信息科学专业 大二在读  
-> 山东数据庄园网络科技有限公司 技术总监  
-> 重庆三峡学院LionHeart战队 顾问  
 > 感兴趣的方向为：神经网络在遥感领域的应用 等  
 <img src="https://s1.ax1x.com/2020/08/10/aHNC0U.gif" width="25%"></img>  
 > GitHub: <https://github.com/heiheiheiheiheihei>  
